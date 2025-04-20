@@ -1,6 +1,6 @@
 
 
-# Easter Egg Hunt Game – Advanced Version
+# Easter Egg Hunt Game – Demo Version
 
 **Welcome to the Easter Egg Hunt Game!** In this demo version, we've added code-breaking, encrypted hints, and hidden secrets. This will make your journey much more challenging and rewarding. Get ready for an experience in code exploration like you've never seen before! **Easter treats are on us!** 🐰🐣
 
